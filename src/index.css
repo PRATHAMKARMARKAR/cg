@@ -1,0 +1,9 @@
+
+@import "tailwindcss";
+
+.navbar{
+  height: 200px;
+  width: 100%;
+  background-image: url("../public/StringNavbar.svg");
+  background-size: cover;
+}
